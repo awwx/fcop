@@ -65,3 +65,7 @@ FCOP does not overlap with or supersede local jurisdiction. If anyone breaks any
 ### 14. What are the ways in which FCOP can be customized?
 
 FCOP can be customized by imposing additional or overriding existing terms and conditions. FCOP can also be customized by specifying a set of guidelines for arbitration that help members understand the directives that arbiters will utilize when trying to resolve incidents.
+
+### 15. Does FCOP engage in tone policing?
+
+FCOP does not require any particular tone be used in communication. Rather, FCOP relies on the *No harassment* clause to deal with undesired communication tones. If someone is not being addressed in a tone they wish to be addressed in, they have the option to prevent others from interacting with them.
