@@ -56,7 +56,7 @@ These requirements on _conduct_ apply to _members_ at all times, even when they 
 
 **Non-Coercion**. We pledge to make reasonable efforts to never coerce _members_ into revealing private information, making statements, or otherwise requiring actions that are unnecessary for the scope of participating in a given _community_ activity.
 
-**Disclosure**. Upon request from an _unqualified individual_, we pledge to make reasonable efforts to provide a written, anonymized summary to the individual that discloses the rational and evidence resulting in their status, and we grant them permission to share this disclosure privately or publicly, providing they do so in its entirety.
+**Disclosure**. Upon request from an _unqualified individual_, we pledge to make reasonable efforts to provide a written, anonymized summary to the individual that discloses the rationale and evidence resulting in their status, and we grant them permission to share this disclosure privately or publicly, providing they do so in its entirety.
 
 **Unbiased Arbitration**. We pledge to make reasonable efforts to appoint balanced or neutral _arbiters_ for every arbitration, without special relationships to _aggrieved_ or _accused_, or vested interest in any specific outcome. In the event that unbiased arbitration is impossible or too onerous, we pledge to disclose all known biases.
 
