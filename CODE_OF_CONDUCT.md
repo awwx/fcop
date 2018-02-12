@@ -72,7 +72,7 @@ These requirements on _conduct_ apply to _members_ at all times, even when they 
 
 **Non-Endorsement**. In recognition of the pluralistic composition of the _community_, the _community_ does not endorse the attitudes, beliefs, moral systems, personality traits, political views, religions, or values of ourselves or of any _member_ of the _community_. No _member_ ever speaks for or represents the _community_, and neither do we speak for or represent the _community_ unless we are acting in our official capacities, and then only for the scope of the task at hand.
 
-**Limitation of Remedy**. FCOP is intended as a legally binding agreement. In the event we fail to uphold any of our pledges as made herein, remedy is limited to a formal public apology and reversal of any consequences (if applicable), unless the breach is governed by separate contractual agreements or local laws.
+**Limitation of Remedy**. Unless otherwise stated, FCOP is not intended as a legally binding agreement. In the event we fail to uphold any of our pledges as made herein, remedy is limited to a formal public apology and reversal of any consequences (if applicable), unless the breach is governed by separate contractual agreements or local laws.
 
 ## Glossary
 
