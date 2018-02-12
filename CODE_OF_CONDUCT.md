@@ -1,5 +1,5 @@
 # Fantasyland Institute of Learning - Code Of Professionalism (FCOP)
-## Version 1.0
+## Version 1.0.0
 
 Copyright &copy; 2016 - 2018 Fantasyland Institute of Learning. All Rights Reserved.
 
