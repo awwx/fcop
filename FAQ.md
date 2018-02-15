@@ -2,7 +2,7 @@
 
 ### 1. Under what circumstances will someone be pro-actively prevented from participating in a community?
 
-Community leaders must believe that every participant does not and will not engage in any form of criminal behavior, including assault, hate speech (as defined by the legal system), and so on; and further, that they do not and will not sabotage the community or its members.
+Community leaders must believe that every participant does not and will not engage in any form of criminal behavior, including assault, hate speech (as defined by the legal system), and so on; and further, that they do not and will not sabotage the community or its members. Individual communities are free to define additional qualification criteria (relevant to the professional goals of the community), which, if not met, might result in someone being pro-actively denied participation.
 
 ### 2. What types of violations will be reported publicly?
 

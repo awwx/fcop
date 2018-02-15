@@ -13,7 +13,7 @@ Please use this repository to submit issues and pull requests.
 
 # Introduction
 
-Every community makes decisions about who to allow into their community and about what types of behavior they permit. Codes of Conduct (COCs) attempt to codify these decisions so that participants have a better understanding of what communities expect from them and what they guarantee to them, and so community members can hold leadership accountable to their stated commitments.
+Every community makes decisions about for whom to allow participation and about what types of behavior they permit. Codes of Conduct (COCs) attempt to codify these decisions so that participants have a better understanding of what communities expect from them, and of what they guarantee to them, and so community members can hold leadership accountable to their stated commitments.
 
 FCOP is a code of conduct designed specifically for _professional communities_. Professional communities, unlike social communities, political communities, religious communities, and support groups, exist to serve a professional agenda, not a social, political, religious or personal one.
 
